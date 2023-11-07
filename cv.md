@@ -22,7 +22,7 @@
 </table>
 ---
 
-### :man_technologist: Briefly About Myself: 
+### Briefly About Myself: 
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
@@ -31,17 +31,17 @@ Currently, I am studying programming, and as a creative individual, I have been 
 I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally.
 
 
-- :telescope: Java Script learn.javascript.ru Course !
+- Java Script learn.javascript.ru Course !
 
-- :seedling: EPAM Front-End Self-Paced Online Program!
+- EPAM Front-End Self-Paced Online Program!
 
-- :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 ---
-### :mailbox: Contact me:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+### Contact me:  [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uahig) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
-- :heavy_check_mark: **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
+- **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
 ---
-### :briefcase: My projects:
+### My projects:
 - :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
 - :link: [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
@@ -54,13 +54,13 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="./assets/linkedin.png" width="40" height="40" alt="linkedin" />
     </a>&nbsp
     <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+      <img src="./assets/youtube.png" width="40" height="40" alt="Youtube"/>
     </a>&nbsp
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
-      <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
+      <img src="assets/facebook.png" width="40" height="40" alt="Facebook"/>
     </a>&nbsp
   </div>
 
