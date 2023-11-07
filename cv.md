@@ -4,7 +4,6 @@
 # Hello, my name is Igor! 
 <table align="center">
   <tr>
-    <td></td>
     <td>
       <pre><code>
       UAHIG { 
@@ -42,49 +41,29 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 - **My CV**: Download PDF: [![CV Badge](https://img.shields.io/badge/-IgorGolosnyy-green?style=plastic&logo=GoogleDrive&logoColor=black)](https://drive.google.com/file/d/1JcXSJ3mi9MQXVT0soTQiBP8pcQpt3g_h/view?usp=sharing)
 ---
 ### My projects:
-- :link: [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
-- :link: [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
-- :link: [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
-- :link: [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
-- :link: [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
-- :link: [![Git Bage](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
-- :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
+- [![Git Bage](https://img.shields.io/badge/-LibraryLandingPage-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
+- [![Git Bage](https://img.shields.io/badge/-JSPocketGame-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-PocketGame/)
+- [![Git Bage](https://img.shields.io/badge/-JSAudioPlayer-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/JS-AudioPlayer/)
+- [![Git Bage](https://img.shields.io/badge/-Aurora-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Aurora/)
+- [![Git Bage](https://img.shields.io/badge/-YouTubeClone-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Youtube-clone/)
+- [![Git Bage](https://img.shields.io/badge/-MemeSliderOnlyCSS-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/MemeSlider-onlyCSS/)
+- [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
 ---
 ### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
       <img src="./assets/linkedin.png" width="40" height="40" alt="linkedin" />
-    </a>&nbsp
+    </a>
     <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
       <img src="./assets/youtube.png" width="40" height="40" alt="Youtube"/>
-    </a>&nbsp
+    </a>
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
       <img src="assets/facebook.png" width="40" height="40" alt="Facebook"/>
-    </a>&nbsp
+    </a>
   </div>
 
 ---
-
-### 💻 Technologies:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp
-  <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">&nbsp
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
 ---
 
 ### Code example: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
@@ -94,22 +73,9 @@ this.up = function() { return ++count; }; this.down = function() { return –cou
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 ```
-### 🛠 Tools:
-
-<div>
- <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; -->
-</div>
-
 ---
 
- ### 💻 Courses:
+ ### Courses:
 
 | Course:                                                         | Date:             |
 | ----------------------------------------------------------------| :---------------: |
