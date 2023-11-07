@@ -1,1 +1,0 @@
-https://UAHIG.github.io/rsschool-cv/cv
