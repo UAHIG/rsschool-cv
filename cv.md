@@ -3,40 +3,6 @@
 
 # Hello, my name is Igor! 
 
-<table align="center">
-  <tr>
-    <td><img src="assets/icons/techstack.gif" width="190" height="190" alt="techstack"></td>
-    <td>
-      <pre><code>
-      UAHIG { 
-        position: Poland; 
-        height: 187cm; 
-        display: boy; 
-        background: engineer; 
-        color: white;
-      }
-      </code></pre>
-    </td>
-    <td><img src="assets/icons/ScrUserPhoto.png" width="100%" height="100%" alt="ProfilePhoto"/></td>
-    <td>
-      <table>
-        <tr>
-          <td><a href="README.md"><img src="assets/icons/united-kingdom.png" height="40"> English</a></td>
-        </tr>
-        <tr>
-          <td><a href="README_ua.md"><img src="assets/icons/ukraine.png" height="40">Ukraine</a></td>
-        </tr>
-        <tr>
-          <td><a href="README_pl.md"><img src="assets/icons/republic-of-poland.png" height="40"> Polska</a></td>
-        </tr>
-         <tr>
-          <td><a href="README_ru.md"><img src="assets/icons/russia.png" height="40">Russian</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### :man_technologist: Briefly About Myself: 
@@ -47,9 +13,6 @@ Currently, I am studying programming, and as a creative individual, I have been 
 
 I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: Java Script learn.javascript.ru Course !
 
@@ -150,21 +113,6 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 
 ![codewars](https://www.codewars.com/users/rsschool_3397996251c38f76/badges/large)
 
-### ⚙️ GitHub statistics:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=UAHIG&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UAHIG&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor&left_text=MyPageVisitors)
-
-<img src="assets/icons/he.png" alt="CrasyWorldOfProgramming"/>
