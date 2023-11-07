@@ -2,7 +2,24 @@
 ---
 
 # Hello, my name is Igor! 
-
+<table align="center">
+  <tr>
+    <td></td>
+    <td>
+      <pre><code>
+      UAHIG { 
+        position: Poland; 
+        height: 187cm; 
+        display: boy; 
+        background: engineer; 
+        color: white;
+      }
+      </code></pre>
+    </td>
+    <td><img src="assets/ScrUserPhoto.png" width="100%" height="100%" alt="ProfilePhoto"/></td>
+   
+  </tr>
+</table>
 ---
 
 ### :man_technologist: Briefly About Myself: 
